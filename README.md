@@ -26,4 +26,4 @@
 ### 📈 Activity Graph
 <br/>
 <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lee926427's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lee926427&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lee926427's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lee926427&bg_color=4a4a4a&color=ccc&line=e8bb17&point=fff&hide_border=true" /></a>
