@@ -4,12 +4,6 @@
   <img src="https://media4.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/React-16.8+-blue" alt="React Badge"/> 
-  <img src="https://img.shields.io/badge/Vue3-3.2+-blue" alt="Vue3 Badge"/>
-  <!--https://shields.io/-->
-</div>
-
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -42,9 +36,9 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/React 16.8^%20-%23F05033.svg?style=plastic&logo=react&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React 16.8+%20-%23F05033.svg?style=plastic&logo=react&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Vue3-%23181717.svg?style=plastic&logo=vue&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Vue3-%23181717.svg?style=plastic&logo=vue3&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Vite-000000?style=plastic&logo=vite&logoColor=white"></a>
   &emsp;
