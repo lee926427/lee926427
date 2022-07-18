@@ -5,8 +5,9 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/React-16.8+-blue" alt="React Badge"/> <!-->https://shields.io/<-->
+  <img src="https://img.shields.io/badge/React-16.8+-blue" alt="React Badge"/> 
   <img src="https://img.shields.io/badge/Vue3-3.2+-blue" alt="Vue3 Badge"/>
+  <!-->https://shields.io/<-->
 </div>
 
 <div align="center">
