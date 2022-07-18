@@ -24,4 +24,4 @@
 </div>
 
 ### 📈 Activity Graph
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lee926427's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lee926427&bg_color=4a4a4a&color=ccc&line=e8bb17&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lee926427's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lee926427&bg_color=242423&color=ccc&line=e8bb17&point=fff&hide_border=true" /></a>
