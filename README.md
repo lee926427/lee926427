@@ -34,7 +34,7 @@
   &emsp;
 </p>
 
-### 👉 Skills
+### 👉 Modern Web Skills
  
 <p align="center">
   &emsp;
