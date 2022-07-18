@@ -22,3 +22,8 @@
      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lee926427&theme=gruvbox&hide_border=true" />
   </a>
 </div>
+
+### 📈 Activity Graph
+<br/>
+<h2 align="center"> my current activity </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lee926427's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lee926427&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
