@@ -36,11 +36,11 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React 16.8+%20-%23F05033.svg?style=?style=for-the-badge&logo=appveyor&logo=react&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React 16.8+%20-%23F05033.svg?style=?style=plastic&logo=appveyor&logo=react&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Vue3-%23181717.svg?style=?style=for-the-badge&logo=appveyor&logo=vue3&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Vue3-%23181717.svg?style=?style=plastic&logo=appveyor&logo=vue3&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Vite-000000?style=?style=for-the-badge&logo=appveyor&logo=vite&logoColor=white"></a>
+    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Vite-000000?style=?style=plastic&logo=appveyor&logo=vite&logoColor=white"></a>
   &emsp;
 </p>
 
