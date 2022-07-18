@@ -38,9 +38,9 @@
   &emsp;
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React 16.8+%20-%23F05033.svg?style=?style=plastic&logo=react&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="vue" src="https://img.shields.io/badge/Vue3-%23181717.svg?style=?style=plastic&logo=vue.js&logoColor=white"></a>
+    <a href="#"><img alt="vue" src="https://img.shields.io/badge/Vue3+%20-%23F05033.svg?style=?style=plastic&logo=vue.js&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="vite" src="https://img.shields.io/badge/Vite-000000?style=?style=plastic&logo=vite&logoColor=white"></a>
+    <a href="#"><img alt="vite" src="https://img.shields.io/badge/Vite+%20-%23F05033.svg?style=?style=plastic&logo=vite&logoColor=white"></a>
   &emsp;
 </p>
 
