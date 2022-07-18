@@ -36,7 +36,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React 16.8+%20-%23F05033.svg?style=?style=plastic&logo=react&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React 16.8+%20-%2342b883.svg?style=?style=plastic&logo=react&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="vue" src="https://img.shields.io/badge/Vue3+%20-%23F05033.svg?style=?style=plastic&logo=vue.js&logoColor=white"></a>
   &emsp;
