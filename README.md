@@ -4,6 +4,8 @@
   <img src="https://media4.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif" width="100"/>
 </div>
 
+## 🛠️ My Skills
+
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -43,6 +45,8 @@
     <a href="#"><img alt="vite" src="https://img.shields.io/badge/Vite+%20-%23a740d6.svg?style=?style=plastic&logo=vite&logoColor=white"></a>
   &emsp;
 </p>
+
+### 💻 GitHub Profile Stats
 
 <div align="center">
   <a href="https://github.com/lee926427/">
