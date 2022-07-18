@@ -16,9 +16,8 @@
   </a>
 </div>
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=lee926427&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee926427&layout=compact&hide_title=1&card_width=300" 
-    alt="Top language used in my repos" 
-   />
+  <a href="https://github.com/1999AZZAR/">
+     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lee926427&show_icons=true&theme=gruvbox&hide_border=true" />
+     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lee926427&theme=gruvbox&hide_border=true" />
+  </a>
 </div>
