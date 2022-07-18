@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-<!--
-**lee926427/lee926427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges">
+  <img src="https://img.shields.io/badge/React-16.8+-blue" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Vue3-3.2+-blue" alt="Vue3 Badge"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=lee926427&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee926427&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee926427&layout=compact&hide_title=1&card_width=300" 
+    alt="Top language used in my repos" 
+   />
 </div>
